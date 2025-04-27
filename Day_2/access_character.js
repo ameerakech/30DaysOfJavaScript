@@ -1,4 +1,4 @@
-//EXERCISE ONE
+
 let challenge = "30 Days Of JavaScript"
 console.log(challenge)
 
@@ -51,7 +51,7 @@ console.log(str2)
 
 console.log(str1.repeat(2))
 
-//EXERCISE TWO
+
 
 let quote = 'There is no exercise better for the heart than reaching down and lifting people up.' 
 console.log(quote)
@@ -62,6 +62,6 @@ console.log(quote)
  let sentence = "I hope this course is not full of jargon"
  console.log(sentence.includes("jargon"))
 
- //EXERCISE THREE
+ 
  let feeling = "Love is the best feeling in the world. Some found their their love and some are still looking for love"
  console.log(feeling.match("love"))
