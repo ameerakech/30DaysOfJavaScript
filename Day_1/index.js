@@ -6,6 +6,7 @@ let city = 'Nairobi'
 let age = 20
 let isMarried = true
 
+
 //Declaring variables with number values
 
 const gravity = 9.81
